@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqK5pgBtRN4RZpFhWIlWQCXGJx8F5ySWHdaTznk1eO7/mAKybljjJ8zZqfFRDbxN19V/AQGnc8ctmiOOTLvjHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moy\\Documents\\GitHub\\xamarin\\LabelTutorial\\LabelTutorial\\LabelTutorial.iOS\\LabelTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.deps.json
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.dll
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ref\ListViewTutorial.dll
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\bin\Debug\netstandard2.0\ListViewTutorial.pdb
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.csprojAssemblyReference.cache
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.AssemblyInfoInputs.cache
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.AssemblyInfo.cs
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.dll
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ref\ListViewTutorial.dll
+C:\Users\Moy\Documents\GitHub\xamarin\ListViewTutorial\ListViewTutorial\ListViewTutorial\obj\Debug\netstandard2.0\ListViewTutorial.pdb

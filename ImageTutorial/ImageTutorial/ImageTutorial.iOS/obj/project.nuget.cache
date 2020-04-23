@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z86OUa3y+0zKRziLx1vgKITQ6kgLXyY1pdnAYo/l+6Dl+kF8t0wqJ9nULfrztnt9VWmWF1bCNHuqr7xqgOHcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moy\\Documents\\GitHub\\xamarin\\ImageTutorial\\ImageTutorial\\ImageTutorial.iOS\\ImageTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

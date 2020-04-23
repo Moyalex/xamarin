@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DD6uSw30mx3VigNJX0Btp8kqdeuLKZXMw8UjT30bMspRzlivjxrHmnvJIUXOeu9akowRYfK852MuE3vXwoDAiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moy\\Documents\\GitHub\\xamarin\\EntryTutorial\\EntryTutorial\\EntryTutorial.iOS\\EntryTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
