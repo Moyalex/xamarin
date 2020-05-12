@@ -1,0 +1,14 @@
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\bin\Debug\netstandard2.0\Hello World.deps.json
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\bin\Debug\netstandard2.0\Hello World.dll
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\bin\Debug\netstandard2.0\ref\Hello World.dll
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\bin\Debug\netstandard2.0\Hello World.pdb
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.csprojAssemblyReference.cache
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.AssemblyInfo.cs
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.dll
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\ref\Hello World.dll
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World\obj\Debug\netstandard2.0\Hello World.pdb

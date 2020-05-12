@@ -1,0 +1,1 @@
+C:\Users\Moy\Documents\GitHub\xamarin\Hello World\Hello World\Hello World.UWP\Hello World.UWP.csproj;x86

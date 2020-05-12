@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFM8DHnZFCAj+VBcCQOrzCEFJTa+zcDq8yGS75ho//ii+wF0rOJ9RnwLm1mrovxEAFF6ZQpe5P9bT3ajVNgjKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moy\\Documents\\GitHub\\xamarin\\Contactos\\Contactos\\Contactos.iOS\\Contactos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moy\\.nuget\\packages\\microsoft.azure.mobile.client\\4.1.2\\microsoft.azure.mobile.client.4.1.2.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\pclcrypto\\2.0.147\\pclcrypto.2.0.147.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\pinvoke.bcrypt\\0.3.2\\pinvoke.bcrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\pinvoke.kernel32\\0.3.2\\pinvoke.kernel32.0.3.2.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\pinvoke.ncrypt\\0.3.2\\pinvoke.ncrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\pinvoke.windows.core\\0.3.2\\pinvoke.windows.core.0.3.2.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\validation\\2.2.8\\validation.2.2.8.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\Moy\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
