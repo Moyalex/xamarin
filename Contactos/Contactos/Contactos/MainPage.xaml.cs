@@ -31,15 +31,25 @@ namespace Contactos
             Navigation.PushAsync(new DetalleContactoPage(seleccionado));
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
-            using(var conn = new SQLite.SQLiteConnection(App.RUTA_DB))
-            {
-                conn.CreateTable<Contacto>();
-                contactos = conn.Table<Contacto>().ToList();
+            //using(var conn = new SQLite.SQLiteConnection(App.RUTA_DB))
+            //{
+            //    conn.CreateTable<Contacto>();
+            //    contactos = conn.Table<Contacto>().ToList();
 
+            //    contactoslistview.ItemsSource = contactos;
+            //}
+
+            try
+            {
+                contactos = await App.mobileclient.GetTable<Contacto>().ToListAsync();
                 contactoslistview.ItemsSource = contactos;
+            }
+            catch (Exception)
+            {
+
             }
         }
 
