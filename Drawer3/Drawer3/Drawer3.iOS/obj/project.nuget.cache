@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AVzfbRodpNYvFOD8GFoGy0XADe1SOL9L6ALlcJNM7mH6p4C/kbRiPjVV9DDj/JE4+SyIqRuQ0Vk6IrMlWcV5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moy\\Documents\\GitHub\\xamarin\\Drawer3\\Drawer3\\Drawer3.iOS\\Drawer3.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
